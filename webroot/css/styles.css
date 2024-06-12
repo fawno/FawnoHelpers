@@ -1,0 +1,25 @@
+/******************************************
+*  Author : Fernando Herrero
+*  Created On : Tue May 07 2024
+*  File : styles.css
+*******************************************/
+.form-group.dropzone { border-radius: 5px; border: 1px solid #ddd; padding: 20px; width: 100%; margin-bottom: 5px; }
+.form-group.dropzone input[type=file] { display: none; }
+.form-group.dropzone .input-group { color: #aaa; font-size: 1.6em; cursor: pointer; border: 1px dashed #aaa; min-height: 260px; border-radius: 4px; text-align: center; padding: 5px; display: table; }
+.form-group.dropzone .input-group:hover { border: 2px dashed #999; }
+.form-group.dropzone .input-group.dragover { border: 2px dashed #999; background-color: #eee; }
+.form-group.dropzone .input-group .placeholder { display: table-cell; font-size: 1.6em; text-align: center; vertical-align: middle; }
+.form-group.dropzone .input-group .file { font-size: initial; }
+.form-group.dropzone .input-group * ~ .placeholder { display: none; }
+
+.form-group.dropzone-auto { border-radius: 5px; border: 1px solid #ddd; padding: 20px; width: 100%; margin-bottom: 5px; }
+.form-group.dropzone-auto input[type=file] { display: none; }
+.form-group.dropzone-auto .input-group { color: #aaa; font-size: 1.6em; cursor: pointer; border: 1px dashed #aaa; min-height: 260px; border-radius: 4px; text-align: center; padding: 5px; display: table; }
+.form-group.dropzone-auto .input-group:hover { border: 2px dashed #999; }
+.form-group.dropzone-auto .input-group.dragover { border: 2px dashed #999; background-color: #eee; }
+.form-group.dropzone-auto .input-group .placeholder { display: table-cell; font-size: 1.6em; text-align: center; vertical-align: middle; }
+.form-group.dropzone-auto .input-group .file { font-size: initial; }
+.form-group.dropzone-auto .input-group * ~ .placeholder { display: none; }
+
+.dragover { border-color: #66afe9; outline: 0; -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6); box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6); }
+.dragover button, .dragover input { border-color: #66afe9; border-style: dashed; }
