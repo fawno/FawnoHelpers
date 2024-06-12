@@ -1,4 +1,10 @@
-[![Package at Packagist](https://img.shields.io/packagist/v/fawno/FawnoHelpers.svg?style=plastic)](https://packagist.org/packages/fawno/fawno-helpers)
+[![GitHub license](https://img.shields.io/github/license/fawno/FawnoHelpers)](https://github.com/fawno/FawnoHelpers/blob/master/LICENSE)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/fawno/FawnoHelpers)](https://github.com/fawno/FawnoHelpers/tags)
+[![Packagist](https://img.shields.io/packagist/v/fawno/fawno-helpers)](https://packagist.org/packages/fawno/fawno-helpers)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/fawno/fawno-helpers)](https://packagist.org/packages/fawno/fawno-helpers/stats)
+[![GitHub issues](https://img.shields.io/github/issues/fawno/FawnoHelpers)](https://github.com/fawno/FawnoHelpers/issues)
+[![GitHub forks](https://img.shields.io/github/forks/fawno/FawnoHelpers)](https://github.com/fawno/FawnoHelpers/network)
+[![GitHub stars](https://img.shields.io/github/stars/fawno/FawnoHelpers)](https://github.com/fawno/FawnoHelpers/stargazers)
 
 # FawnoHelpers
 
